@@ -1,0 +1,22 @@
+{
+  "name": "My Bondage and My Freedom",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/my-bondage-and-my-freedom/master/assets",
+  "book_id": 1041,
+  "book_url": "https://bubblin.io/book/my-bondage-and-my-freedom-by-frederick-douglass"
+}
